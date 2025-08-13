@@ -1,0 +1,316 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 279640
+              },
+              "name": "Dhinam Dhinam",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "86475",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:3xNvjwta51nnA6jcLzS9NT"
+            },
+            "uid": "f84c6016b8743440446e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "B.S. Sasirekha"
+                    },
+                    "uri": "spotify:artist:1ew3IffJ5uXmH2CIhvooBX"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 288933
+              },
+              "name": "Idhu Raaththiri Neram",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "164559",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:5tlpA3Lik8NiwaDme33EXc"
+            },
+            "uid": "cbb257ea894c15e73526"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "B.S. Sasirekha"
+                    },
+                    "uri": "spotify:artist:1ew3IffJ5uXmH2CIhvooBX"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 296506
+              },
+              "name": "Pahelendrum Iravendrum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "27556",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:0uxstOlrLlZm7xTpy0mHWT"
+            },
+            "uid": "572d20e78953113bebaa"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 287426
+              },
+              "name": "Thattippaarthen",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1045399",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:0dRbC3SN5ujlOzH5LElqE6"
+            },
+            "uid": "babdaf026d8db692dbfe"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 301560
+              },
+              "name": "Thanjavooru Melam",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "67527",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:2kwd9OR5kgdC1uGjpjOH57"
+            },
+            "uid": "3186289d333394bb71f0"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 295146
+              },
+              "name": "Thanga Nilave",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "86082",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:4GZ5dLhuS198gggq3SLI7y"
+            },
+            "uid": "829ca5820265bcd1492b"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "L. R. Anjali"
+                    },
+                    "uri": "spotify:artist:7hXcVKvQhMUTvzfzkODzS3"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 302346
+              },
+              "name": "Thanniyilla Meenaippole",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "14425",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:74euQaGigougw1XjzllHRI"
+            },
+            "uid": "d20b8f7722493f6b12d8"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Malaysia Vasudevan"
+                    },
+                    "uri": "spotify:artist:0qS0rxCY4YfrUx9GCTlDIW"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 273373
+              },
+              "name": "Ye Machchi",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "15420",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:3SSItwHP63pgCXjmiy1ran"
+            },
+            "uid": "000941fce9daefc4f172"
+          }
+        ],
+        "totalCount": 8
+      }
+    }
+  },
+  "extensions": {}
+}

@@ -1,0 +1,490 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 347426
+              },
+              "name": "Namballe Namballe",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:5PMGs3EkPrzn9tVWqguXAd"
+            },
+            "uid": "50b98f3be5f4ce89e271"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "Sujatha"
+                    },
+                    "uri": "spotify:artist:2JEjaa7hWhE1BbL3OcoeFR"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 335346
+              },
+              "name": "Hello Hello",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:5q4pbFHzbNAm3IptRWAag4"
+            },
+            "uid": "87c9f50a17b9023aacac"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "M. G. Sreekumar"
+                    },
+                    "uri": "spotify:artist:3wjaprBWmoSJn4KP9tgkxt"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 346000
+              },
+              "name": "No Problem",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:5Cp37pI74BqJneO9qqDTcp"
+            },
+            "uid": "61a09ef2033ac9b21eef"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 346586
+              },
+              "name": "Don't Try To Love Me",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:6JYA1PWS88usJcRBcWBIRn"
+            },
+            "uid": "b1aff794477beff95677"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "Silambarasan TR"
+                    },
+                    "uri": "spotify:artist:5Hn84AFwiTEi8eMoI5B9AS"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 323293
+              },
+              "name": "Monisha",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "2139",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:5VwyCRZ8Jnv6ZIWvXsarr4"
+            },
+            "uid": "0a32a290717332b15173"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "Unnikrishnan"
+                    },
+                    "uri": "spotify:artist:0mV4UQ0gHg59AAUtg968pX"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 354200
+              },
+              "name": "Rakile",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:2tu0hs5sbqqgO6vckG1FNW"
+            },
+            "uid": "1dd0ee88a385b6e0e861"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "Silambarasan TR"
+                    },
+                    "uri": "spotify:artist:5Hn84AFwiTEi8eMoI5B9AS"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 406093
+              },
+              "name": "Monalisa",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "23075",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:6k187uLqZc9X4uToq4iKpW"
+            },
+            "uid": "958b494f69cf5999379f"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "M. G. Sreekumar"
+                    },
+                    "uri": "spotify:artist:3wjaprBWmoSJn4KP9tgkxt"
+                  },
+                  {
+                    "profile": {
+                      "name": "Swarnalatha"
+                    },
+                    "uri": "spotify:artist:7N0SBLJFpCyQSsv4MfRJ5d"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 332560
+              },
+              "name": "College",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:2fBJqjRRW26IidqreVGnRw"
+            },
+            "uid": "8fa3a518ffdde77b9d2f"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "Hariharan"
+                    },
+                    "uri": "spotify:artist:2NoJ7NuNs9nyj8Thoh1kbu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 365093
+              },
+              "name": "Uyire Vaa",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:4Su9tcptPSZXvXhxPDGiOd"
+            },
+            "uid": "fe3c8c008ec1fd871784"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 362866
+              },
+              "name": "Premam Thedi",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 10,
+              "uri": "spotify:track:5Fv80SMjK9c48XeIRNrma3"
+            },
+            "uid": "5eb1fef65af87e33fb3c"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 164586
+              },
+              "name": "Arumayaai",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 11,
+              "uri": "spotify:track:5bC7DWVTK4g7XaifMPmCKy"
+            },
+            "uid": "f13395853ccb016f9d7c"
+          }
+        ],
+        "totalCount": 11
+      }
+    }
+  },
+  "extensions": {}
+}

@@ -1,0 +1,908 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "all": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c6f1569b7f357e00ce637c28",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c6f1569b7f357e00ce637c28",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c6f1569b7f357e00ce637c28",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1987-07-13T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1987
+                    },
+                    "id": "7jpENLZebCvlUC3pzzVrYD",
+                    "name": "Poo Poova Poothirukku",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "C1yKsULTQZG2_Cz-N0wp3A",
+                      "shareUrl": "https://open.spotify.com/album/7jpENLZebCvlUC3pzzVrYD?si=C1yKsULTQZG2_Cz-N0wp3A"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:7jpENLZebCvlUC3pzzVrYD"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0225a80c03408d7cd474310f71",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485125a80c03408d7cd474310f71",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27325a80c03408d7cd474310f71",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1987-03-06T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1987
+                    },
+                    "id": "2qV9Hu7VQLICDc39X2unVQ",
+                    "name": "Muthukkal Moondru (Original Motion Picture Soundtrack)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "MHXXmzsjSBOlJtbTTKs-HQ",
+                      "shareUrl": "https://open.spotify.com/album/2qV9Hu7VQLICDc39X2unVQ?si=MHXXmzsjSBOlJtbTTKs-HQ"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:2qV9Hu7VQLICDc39X2unVQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02345f826b2dbd36098c5852d4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851345f826b2dbd36098c5852d4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273345f826b2dbd36098c5852d4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1986-01-01T00:00:00Z",
+                      "precision": "YEAR",
+                      "year": 1986
+                    },
+                    "id": "3MVYMEp2uZXTbjoWLjyRKs",
+                    "name": "Mythili Ennai Kaadhali (Original Motion Picture Soundtrack)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "9Lt72FNSTRuy5iIkRMqjHg",
+                      "shareUrl": "https://open.spotify.com/album/3MVYMEp2uZXTbjoWLjyRKs?si=9Lt72FNSTRuy5iIkRMqjHg"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3MVYMEp2uZXTbjoWLjyRKs"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023e9de7951d42bde26c67e885",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513e9de7951d42bde26c67e885",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733e9de7951d42bde26c67e885",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1985-12-31T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1985
+                    },
+                    "id": "6z4nzCg3DKVnjiEmQsBbpQ",
+                    "name": "Unakkaga Oru Roja",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "yZ_jO0A7SrqXK-ZzIokxyg",
+                      "shareUrl": "https://open.spotify.com/album/6z4nzCg3DKVnjiEmQsBbpQ?si=yZ_jO0A7SrqXK-ZzIokxyg"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6z4nzCg3DKVnjiEmQsBbpQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0297aebe05bf2892228b3e21cf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485197aebe05bf2892228b3e21cf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27397aebe05bf2892228b3e21cf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1985-12-30T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1985
+                    },
+                    "id": "6Fky9ZrESB7vLTPQEZUWXJ",
+                    "name": "Engal Kural",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "okFdNRbqSj6vfv3fXzx4BA",
+                      "shareUrl": "https://open.spotify.com/album/6Fky9ZrESB7vLTPQEZUWXJ?si=okFdNRbqSj6vfv3fXzx4BA"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6Fky9ZrESB7vLTPQEZUWXJ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0297fd04205f4a6337d1227987",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485197fd04205f4a6337d1227987",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27397fd04205f4a6337d1227987",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1984-12-31T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1984
+                    },
+                    "id": "1OqewlDjdwqeJbxBbnfXSp",
+                    "name": "Prema Samrajyam",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "sCAfgX4ZTWmx3sElWUosDA",
+                      "shareUrl": "https://open.spotify.com/album/1OqewlDjdwqeJbxBbnfXSp?si=sCAfgX4ZTWmx3sElWUosDA"
+                    },
+                    "tracks": {
+                      "totalCount": 8
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1OqewlDjdwqeJbxBbnfXSp"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021662da2106e3fb7c11faac49",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511662da2106e3fb7c11faac49",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731662da2106e3fb7c11faac49",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1984-12-31T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1984
+                    },
+                    "id": "16j31wvCMNkRJYCcV0ChZn",
+                    "name": "Prema Sagaram",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "VPpmHlXkTF-Yl6XVFTcx1g",
+                      "shareUrl": "https://open.spotify.com/album/16j31wvCMNkRJYCcV0ChZn?si=VPpmHlXkTF-Yl6XVFTcx1g"
+                    },
+                    "tracks": {
+                      "totalCount": 6
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:16j31wvCMNkRJYCcV0ChZn"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023e783b583ba01669bcd70f8a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513e783b583ba01669bcd70f8a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733e783b583ba01669bcd70f8a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1984-10-23T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1984
+                    },
+                    "id": "7fyF99O0TC96pc81W1xJjL",
+                    "name": "Uravai kaatha Kili",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7VYsz8lfQoKLWDZITNo26g",
+                      "shareUrl": "https://open.spotify.com/album/7fyF99O0TC96pc81W1xJjL?si=7VYsz8lfQoKLWDZITNo26g"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7fyF99O0TC96pc81W1xJjL"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02926de8d99a75b3dde41ed398",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851926de8d99a75b3dde41ed398",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273926de8d99a75b3dde41ed398",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1984-06-09T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1984
+                    },
+                    "id": "0g8s0rdAMaumnO5EUrndO3",
+                    "name": "Prema Prema Prema",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "mXwK6vCtRH--VooBhj5toQ",
+                      "shareUrl": "https://open.spotify.com/album/0g8s0rdAMaumnO5EUrndO3?si=mXwK6vCtRH--VooBhj5toQ"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:0g8s0rdAMaumnO5EUrndO3"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02326bda4a087f985a308094c7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851326bda4a087f985a308094c7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273326bda4a087f985a308094c7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1984-01-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1984
+                    },
+                    "id": "1lpjHEp3gdyUYD2v08KlkV",
+                    "name": "Vetri Namadhe (Original Motion Picture Soundtrack)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "S2NQeInDRYiOcMMKobI20w",
+                      "shareUrl": "https://open.spotify.com/album/1lpjHEp3gdyUYD2v08KlkV?si=S2NQeInDRYiOcMMKobI20w"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1lpjHEp3gdyUYD2v08KlkV"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02203505f7c581f6c80ff982db",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851203505f7c581f6c80ff982db",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273203505f7c581f6c80ff982db",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1983-12-31T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1983
+                    },
+                    "id": "6hWZ9qEf248YR8JfqEPExl",
+                    "name": "Premasagaram",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "RIdlGqv9Qw2P-Y1Uoru0eg",
+                      "shareUrl": "https://open.spotify.com/album/6hWZ9qEf248YR8JfqEPExl?si=RIdlGqv9Qw2P-Y1Uoru0eg"
+                    },
+                    "tracks": {
+                      "totalCount": 8
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6hWZ9qEf248YR8JfqEPExl"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02008548ff7f3b6d021ef0c9f9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851008548ff7f3b6d021ef0c9f9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273008548ff7f3b6d021ef0c9f9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1983-04-11T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1983
+                    },
+                    "id": "4dRTLZjmQoxCPxh9ibwMmS",
+                    "name": "Thangaikkor Geetham",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "9TjlZzqhQLSE2MSF3QnahQ",
+                      "shareUrl": "https://open.spotify.com/album/4dRTLZjmQoxCPxh9ibwMmS?si=9TjlZzqhQLSE2MSF3QnahQ"
+                    },
+                    "tracks": {
+                      "totalCount": 8
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4dRTLZjmQoxCPxh9ibwMmS"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c0608e3e52a1451662b7fc17",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c0608e3e52a1451662b7fc17",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c0608e3e52a1451662b7fc17",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1982-06-11T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1982
+                    },
+                    "id": "5vojhxp98BSLYgDMqdPkwH",
+                    "name": "Nenjil Oru Raagam",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "vzu7KfJ1RemV6g0GHUYrCQ",
+                      "shareUrl": "https://open.spotify.com/album/5vojhxp98BSLYgDMqdPkwH?si=vzu7KfJ1RemV6g0GHUYrCQ"
+                    },
+                    "tracks": {
+                      "totalCount": 6
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:5vojhxp98BSLYgDMqdPkwH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02dbc06c7489994418d80a7866",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851dbc06c7489994418d80a7866",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273dbc06c7489994418d80a7866",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1981-12-31T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1981
+                    },
+                    "id": "6eM1EWweKy7mmUPhWcdYd4",
+                    "name": "Oruthalai Ragam",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "HDMRd4S2SIyj1TRby0q4WQ",
+                      "shareUrl": "https://open.spotify.com/album/6eM1EWweKy7mmUPhWcdYd4?si=HDMRd4S2SIyj1TRby0q4WQ"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6eM1EWweKy7mmUPhWcdYd4"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027024106402a0f4890631c421",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517024106402a0f4890631c421",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737024106402a0f4890631c421",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1981-12-31T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1981
+                    },
+                    "id": "7aBkObaQgVmn1NDnkFgOLc",
+                    "name": "Oru Thalai Ragam",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "YHBl7YVBR4a_6CMj50TGZg",
+                      "shareUrl": "https://open.spotify.com/album/7aBkObaQgVmn1NDnkFgOLc?si=YHBl7YVBR4a_6CMj50TGZg"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7aBkObaQgVmn1NDnkFgOLc"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ce0787da56c3c8d5d783e4e1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ce0787da56c3c8d5d783e4e1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ce0787da56c3c8d5d783e4e1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1981-07-11T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1981
+                    },
+                    "id": "11hok8CXwTXF3icTta3cst",
+                    "name": "Raagam Thedum Pallavi",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "SrIwZ__NRAKRxVTVsa06ew",
+                      "shareUrl": "https://open.spotify.com/album/11hok8CXwTXF3icTta3cst?si=SrIwZ__NRAKRxVTVsa06ew"
+                    },
+                    "tracks": {
+                      "totalCount": 6
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:11hok8CXwTXF3icTta3cst"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b4183dfaad392a3789457601",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b4183dfaad392a3789457601",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b4183dfaad392a3789457601",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1981-06-28T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1981
+                    },
+                    "id": "3bIcafPJ03tCLRYez1ORfp",
+                    "name": "Irayil Payanangalil",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "qF8-ZxC1Somj2EpP6ajcHA",
+                      "shareUrl": "https://open.spotify.com/album/3bIcafPJ03tCLRYez1ORfp?si=qF8-ZxC1Somj2EpP6ajcHA"
+                    },
+                    "tracks": {
+                      "totalCount": 6
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:3bIcafPJ03tCLRYez1ORfp"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f46797d54075b3a98a91e10b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f46797d54075b3a98a91e10b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f46797d54075b3a98a91e10b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1980-12-31T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1980
+                    },
+                    "id": "1QZQnFWA9fdmMfSSBGK9LL",
+                    "name": "Vasantha Azhaippugal",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "3AVdUg9QTmeZ2veG249PGw",
+                      "shareUrl": "https://open.spotify.com/album/1QZQnFWA9fdmMfSSBGK9LL?si=3AVdUg9QTmeZ2veG249PGw"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:1QZQnFWA9fdmMfSSBGK9LL"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cfe0e1e983e88d4ed4eac691",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cfe0e1e983e88d4ed4eac691",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cfe0e1e983e88d4ed4eac691",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "1979-09-19T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 1979
+                    },
+                    "id": "2oP39eYypjd8VkbTiJoQPY",
+                    "name": "Oruthalai Raagam",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ULeturb5Q8mU526hP_bIIw",
+                      "shareUrl": "https://open.spotify.com/album/2oP39eYypjd8VkbTiJoQPY?si=ULeturb5Q8mU526hP_bIIw"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2oP39eYypjd8VkbTiJoQPY"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 59
+        }
+      }
+    }
+  },
+  "extensions": {}
+}

@@ -1,0 +1,448 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 271905
+              },
+              "name": "Yae Paadal Ondru Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "23193",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:0L0WIFlMgjqau9SskLBYes"
+            },
+            "uid": "f9c07fefbbf48cba9a92"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 288712
+              },
+              "name": "Azhagiya Kanne Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "36120",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:3ItAUGmGctZpNNllsEQMgk"
+            },
+            "uid": "44fb17338c94d7c3aeef"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 245650
+              },
+              "name": "Enthan Kannil Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "79539",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:0l97Z1Cfr9Q3fiGwafSP5M"
+            },
+            "uid": "828add893c20d23aaa65"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 349944
+              },
+              "name": "Germanien Senthan Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "47689",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:5AmMcKDdmOv4T150d9jtzT"
+            },
+            "uid": "87cfc65d2c9176fabd8d"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 274543
+              },
+              "name": "Indha Minminikku Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "32999",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:48SObuAtOUNMZkOjdn72NF"
+            },
+            "uid": "6f2127294bb1235bbd85"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 250071
+              },
+              "name": "Kanmaniyae Kadhal Enbathu Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "54581",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:1LdNyTdhaqIBztjblV2kdg"
+            },
+            "uid": "564a4088ff7da87c9fed"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 277234
+              },
+              "name": "Naane Naana Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "7937",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:7rPyOSLV9tkU8LbwH9DL72"
+            },
+            "uid": "06c4931c1cc4d79b213e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 280678
+              },
+              "name": "Ninaivo Oru Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "12624",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:3jm251vHOgFJ3Xo8caWTCM"
+            },
+            "uid": "2de93242c84ec565848f"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 280371
+              },
+              "name": "Perai Sollavaa Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "36105",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:1Nv1MWq3M6lnhzviLhaD0l"
+            },
+            "uid": "d5d98e2bc53bfbb116c4"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 246959
+              },
+              "name": "Paruvame Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "24844",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 10,
+              "uri": "spotify:track:0KpfzDJaAlWc9HkGMlmsKM"
+            },
+            "uid": "0ff723b24922aef6627a"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 296009
+              },
+              "name": "Vaasamilla Veena",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "2761",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 11,
+              "uri": "spotify:track:769IDxcqiFWjvMPXQiX0zn"
+            },
+            "uid": "ebfb3fcbbd20e42c0db2"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Rajhesh Vaidhya"
+                    },
+                    "uri": "spotify:artist:4ymxXOXgxZVu5dDot8oXuL"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 258357
+              },
+              "name": "Senorita",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "30693",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 12,
+              "uri": "spotify:track:6s8QyXSeIhNUdpVy1EKu9a"
+            },
+            "uid": "4462a0c06e3db0e5c5cd"
+          }
+        ],
+        "totalCount": 12
+      }
+    }
+  },
+  "extensions": {}
+}

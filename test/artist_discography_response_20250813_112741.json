@@ -1,0 +1,955 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "all": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e1cc2ede79f9bd97a452cae4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e1cc2ede79f9bd97a452cae4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e1cc2ede79f9bd97a452cae4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2025-06-25T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "49NwR5zFMVDNRICdfNSDXZ",
+                    "name": "Chikitu (From \"Coolie\") (Telugu)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "PHeXfSANTESDH1KhgI312A",
+                      "shareUrl": "https://open.spotify.com/album/49NwR5zFMVDNRICdfNSDXZ?si=PHeXfSANTESDH1KhgI312A"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:49NwR5zFMVDNRICdfNSDXZ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c43c9a46474ceda8332fa723",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c43c9a46474ceda8332fa723",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c43c9a46474ceda8332fa723",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2025-06-25T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "3P9Jdtp9NVxqWVEusCbw5K",
+                    "name": "Chikitu (From \"Coolie\") (Tamil)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "909JrwjCS66HfeOBOnMhYw",
+                      "shareUrl": "https://open.spotify.com/album/3P9Jdtp9NVxqWVEusCbw5K?si=909JrwjCS66HfeOBOnMhYw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3P9Jdtp9NVxqWVEusCbw5K"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0264caaac729b5a64a88bee2a6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485164caaac729b5a64a88bee2a6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27364caaac729b5a64a88bee2a6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2025-06-25T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "6umvXz4avCtm6mrldTeaZn",
+                    "name": "Chikitu (From \"Coolie The Powerhouse\") (Hindi)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "5UC21rVKRYmKV7iMbGdcmA",
+                      "shareUrl": "https://open.spotify.com/album/6umvXz4avCtm6mrldTeaZn?si=5UC21rVKRYmKV7iMbGdcmA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6umvXz4avCtm6mrldTeaZn"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02722162fd13bcb249f7c1e64a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851722162fd13bcb249f7c1e64a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273722162fd13bcb249f7c1e64a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2025-06-20T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "1svMTt5PkeZcVzlTbXosjc",
+                    "name": "Dandanakka Life'u (From \"Aaromaley\")",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "az17Ps_NTWOBCdUFpTQgBA",
+                      "shareUrl": "https://open.spotify.com/album/1svMTt5PkeZcVzlTbXosjc?si=az17Ps_NTWOBCdUFpTQgBA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1svMTt5PkeZcVzlTbXosjc"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0249ae4716065aec256b0401e6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485149ae4716065aec256b0401e6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27349ae4716065aec256b0401e6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2025-04-03T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "7aTTculaRJp4Zez80EyBV7",
+                    "name": "Umma Song (From \"Rajaputhiran\")",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "CmLjqcrZS4e6m0coJRXU7w",
+                      "shareUrl": "https://open.spotify.com/album/7aTTculaRJp4Zez80EyBV7?si=CmLjqcrZS4e6m0coJRXU7w"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7aTTculaRJp4Zez80EyBV7"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022bdebb1056b585d2360ca858",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512bdebb1056b585d2360ca858",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732bdebb1056b585d2360ca858",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2025-02-06T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "5KClQC5ny2GzBLLPiDANpP",
+                    "name": "Kalayile Koovuthu (From \"Vettu\")",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "2tAJ2Y4sRwaQNPfktiCGcg",
+                      "shareUrl": "https://open.spotify.com/album/5KClQC5ny2GzBLLPiDANpP?si=2tAJ2Y4sRwaQNPfktiCGcg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5KClQC5ny2GzBLLPiDANpP"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026bd6fd6b2ada276fe0bec202",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516bd6fd6b2ada276fe0bec202",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736bd6fd6b2ada276fe0bec202",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2024-12-12T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3rawORcH9av8a4xPpPqWEG",
+                    "name": "Chikitu Vibe Promo (From \"Coolie\")",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "g3_WwNVPRYuFaLx2tuHSFg",
+                      "shareUrl": "https://open.spotify.com/album/3rawORcH9av8a4xPpPqWEG?si=g3_WwNVPRYuFaLx2tuHSFg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3rawORcH9av8a4xPpPqWEG"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0283af74a038e21f1bedb01b14",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485183af74a038e21f1bedb01b14",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27383af74a038e21f1bedb01b14",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2024-03-10T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2uFjpUj2Svs8afDIjz9bX7",
+                    "name": "Jiloma (From \"The Boys\")",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "o7hptCKySY-27PwBZI2Dkg",
+                      "shareUrl": "https://open.spotify.com/album/2uFjpUj2Svs8afDIjz9bX7?si=o7hptCKySY-27PwBZI2Dkg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2uFjpUj2Svs8afDIjz9bX7"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cfc53656a906151aaa988ebe",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cfc53656a906151aaa988ebe",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cfc53656a906151aaa988ebe",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2023-07-15T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "7zJ5qxeFanSZgXeZoD820s",
+                    "name": "Adhirudha (From \"Mark Antony\")",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "sSvr09m0RwuYe6hzYS8SYw",
+                      "shareUrl": "https://open.spotify.com/album/7zJ5qxeFanSZgXeZoD820s?si=sSvr09m0RwuYe6hzYS8SYw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7zJ5qxeFanSZgXeZoD820s"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02092f793e3074ae30142beddd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851092f793e3074ae30142beddd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273092f793e3074ae30142beddd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2023-07-12T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "5PdAORKpzzdmQC1Y9mPFYz",
+                    "name": "Shabash Babu",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "dAaTMo8RT5WapQCw8kcn1w",
+                      "shareUrl": "https://open.spotify.com/album/5PdAORKpzzdmQC1Y9mPFYz?si=dAaTMo8RT5WapQCw8kcn1w"
+                    },
+                    "tracks": {
+                      "totalCount": 8
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5PdAORKpzzdmQC1Y9mPFYz"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02074a48171fd6c2db7fdd50f9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851074a48171fd6c2db7fdd50f9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273074a48171fd6c2db7fdd50f9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2021-12-12T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "1IrgG5XYtpW7J3QyhnR3Ux",
+                    "name": "Astakarmma",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Fh0KXbe7Rw2ribsCATr8LA",
+                      "shareUrl": "https://open.spotify.com/album/1IrgG5XYtpW7J3QyhnR3Ux?si=Fh0KXbe7Rw2ribsCATr8LA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1IrgG5XYtpW7J3QyhnR3Ux"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024537a0c9a58fd7f1642c93f7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514537a0c9a58fd7f1642c93f7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734537a0c9a58fd7f1642c93f7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2017-06-21T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2017
+                    },
+                    "id": "2WofY7ONcXKxpyQqMg93hL",
+                    "name": "Kavan - Vetri Meethu Vetri Vandhu - Reprised",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "5ZhBRRHCRv6eTfUv5B873Q",
+                      "shareUrl": "https://open.spotify.com/album/2WofY7ONcXKxpyQqMg93hL?si=5ZhBRRHCRv6eTfUv5B873Q"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2WofY7ONcXKxpyQqMg93hL"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02533ffdfd522afa2dcf60cf86",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851533ffdfd522afa2dcf60cf86",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273533ffdfd522afa2dcf60cf86",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2016-04-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2016
+                    },
+                    "id": "0wORYd3gwvaAYwOfClOTeU",
+                    "name": "The Re-Music 70-80s Vol. 3",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "SLQyS3-cT3OFub9_kjGbWg",
+                      "shareUrl": "https://open.spotify.com/album/0wORYd3gwvaAYwOfClOTeU?si=SLQyS3-cT3OFub9_kjGbWg"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0wORYd3gwvaAYwOfClOTeU"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d749ad82e3592158a92165b4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d749ad82e3592158a92165b4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d749ad82e3592158a92165b4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2015-01-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "3qjfG80d2qZtPG0gRnt70K",
+                    "name": "Vaadapookkal",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Z9UeeLcvTyO5ljkiK_UX3Q",
+                      "shareUrl": "https://open.spotify.com/album/3qjfG80d2qZtPG0gRnt70K?si=Z9UeeLcvTyO5ljkiK_UX3Q"
+                    },
+                    "tracks": {
+                      "totalCount": 16
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3qjfG80d2qZtPG0gRnt70K"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a4f0640c23ef67fe99100450",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a4f0640c23ef67fe99100450",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a4f0640c23ef67fe99100450",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2014-08-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "7GHfs0Tjs1HfDRPch0SA2c",
+                    "name": "Samsara Sangeetham",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "xrtxkP4URQ2oaVb5rpUvJA",
+                      "shareUrl": "https://open.spotify.com/album/7GHfs0Tjs1HfDRPch0SA2c?si=xrtxkP4URQ2oaVb5rpUvJA"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7GHfs0Tjs1HfDRPch0SA2c"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02242191a71264d7373e3685d0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851242191a71264d7373e3685d0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273242191a71264d7373e3685d0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2014-08-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "28K9Mj3QlrV60dv8xGe1eX",
+                    "name": "Ratha Yaathirai",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "IU-1QOY5Tli37n7CjoSgng",
+                      "shareUrl": "https://open.spotify.com/album/28K9Mj3QlrV60dv8xGe1eX?si=IU-1QOY5Tli37n7CjoSgng"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:28K9Mj3QlrV60dv8xGe1eX"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ff19a23538eaa725252f50a1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ff19a23538eaa725252f50a1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ff19a23538eaa725252f50a1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2014-08-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "38nF6fWREC1clKvdBcoigy",
+                    "name": "Hello My Dear Monisha",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "JUQhA4-5Rc-YGzfH_WyR4w",
+                      "shareUrl": "https://open.spotify.com/album/38nF6fWREC1clKvdBcoigy?si=JUQhA4-5Rc-YGzfH_WyR4w"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:38nF6fWREC1clKvdBcoigy"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02538906284bc8da9a78922346",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851538906284bc8da9a78922346",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273538906284bc8da9a78922346",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2014-08-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "6ce0t9cUNV226dilgtyaXF",
+                    "name": "Cooliekkaran",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "4WMAcQejQb6NEXTzCZncZQ",
+                      "shareUrl": "https://open.spotify.com/album/6ce0t9cUNV226dilgtyaXF?si=4WMAcQejQb6NEXTzCZncZQ"
+                    },
+                    "tracks": {
+                      "totalCount": 6
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:6ce0t9cUNV226dilgtyaXF"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029ddfb407f9c8d306326f6d3d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519ddfb407f9c8d306326f6d3d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739ddfb407f9c8d306326f6d3d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2014-08-01T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "578cYeOHE0fu51U50mNgMJ",
+                    "name": "Aayasu Nooru",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "vsSQ_yS1RlmEL1taa1jfmg",
+                      "shareUrl": "https://open.spotify.com/album/578cYeOHE0fu51U50mNgMJ?si=vsSQ_yS1RlmEL1taa1jfmg"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:578cYeOHE0fu51U50mNgMJ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a133c4fc73e761f55b21a9c7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a133c4fc73e761f55b21a9c7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a133c4fc73e761f55b21a9c7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "isoString": "2013-06-29T00:00:00Z",
+                      "precision": "DAY",
+                      "year": 2013
+                    },
+                    "id": "6Hmg4n5L8ETvnXsk3X0qYL",
+                    "name": "Music Director T.R.Special",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "9F8jG-GkTxSp9zN2IglADw",
+                      "shareUrl": "https://open.spotify.com/album/6Hmg4n5L8ETvnXsk3X0qYL?si=9F8jG-GkTxSp9zN2IglADw"
+                    },
+                    "tracks": {
+                      "totalCount": 15
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6Hmg4n5L8ETvnXsk3X0qYL"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 59
+        }
+      }
+    }
+  },
+  "extensions": {}
+}

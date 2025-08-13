@@ -1,0 +1,178 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gopal Rao"
+                    },
+                    "uri": "spotify:artist:4he4246npyuyJ0WMgfuMHe"
+                  },
+                  {
+                    "profile": {
+                      "name": "Swarnalatha"
+                    },
+                    "uri": "spotify:artist:7N0SBLJFpCyQSsv4MfRJ5d"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 277733
+              },
+              "name": "Makhizham Poo",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:65C8qX7LroKdPZW0Gx85sj"
+            },
+            "uid": "7c5966e1a20781d37749"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Unnikrishnan"
+                    },
+                    "uri": "spotify:artist:0mV4UQ0gHg59AAUtg968pX"
+                  },
+                  {
+                    "profile": {
+                      "name": "Anu Sriram"
+                    },
+                    "uri": "spotify:artist:4hSZ2JbQjpFyx7FSCVv71F"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 297508
+              },
+              "name": "Vaaraai Vasantha",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "7644",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:3Yufm6nGJnrG2AgdEH8YT2"
+            },
+            "uid": "87fb39c5d6dfcb9cd634"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gopal Rao"
+                    },
+                    "uri": "spotify:artist:4he4246npyuyJ0WMgfuMHe"
+                  },
+                  {
+                    "profile": {
+                      "name": "Swarnalatha"
+                    },
+                    "uri": "spotify:artist:7N0SBLJFpCyQSsv4MfRJ5d"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 273266
+              },
+              "name": "Utchambatti",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:4jZWHJUvVOXgkpOjdAegZZ"
+            },
+            "uid": "f5abeeaab126500f6f9e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Anu Sriram"
+                    },
+                    "uri": "spotify:artist:4hSZ2JbQjpFyx7FSCVv71F"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 306938
+              },
+              "name": "Rappodu Aanadhu",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:1XsAAcJhsGiuJb7LMPWaJv"
+            },
+            "uid": "7ec1a45f32235f450993"
+          }
+        ],
+        "totalCount": 4
+      }
+    }
+  },
+  "extensions": {}
+}

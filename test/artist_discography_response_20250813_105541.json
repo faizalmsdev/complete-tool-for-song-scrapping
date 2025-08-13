@@ -1,0 +1,202 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "P. Susheela"
+                    },
+                    "uri": "spotify:artist:0aFGod7DM6b3O5l1AmvFwK"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 254826
+              },
+              "name": "Gangai Ponguthe",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:58lmD5wAp7dJm6k7d4Z677"
+            },
+            "uid": "a5fc3717ab1048567cf9"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 200293
+              },
+              "name": "Thanthana Naalum Pochchu",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1865",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:4cgpcbTqbwizHJXaBtJMBc"
+            },
+            "uid": "a36ded873f901a008ef4"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 228466
+              },
+              "name": "Kitta Vaadi",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "3005",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:2zbWJo6z74FTSWCkZ9q8H9"
+            },
+            "uid": "cecf1badc247efa6f3ba"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Malaysia Vasudevan"
+                    },
+                    "uri": "spotify:artist:0qS0rxCY4YfrUx9GCTlDIW"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 281746
+              },
+              "name": "Ada Neela Selai",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "3550",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:2GCTP1z1fNOuN9o1NhT3La"
+            },
+            "uid": "2d607345bef9b0d4d4f9"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 336266
+              },
+              "name": "Devalogam Azhaiththaalum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:3KJKA4W9mVwALrBevxDQsQ"
+            },
+            "uid": "b8824a26ed91c4840d74"
+          }
+        ],
+        "totalCount": 5
+      }
+    }
+  },
+  "extensions": {}
+}

@@ -1,0 +1,58 @@
+{
+  "playlists": [
+    {
+      "name": "janaki-hits",
+      "url": "https://open.spotify.com/playlist/7qBX16pMF7WzpzVrdFXDOj?si=5f161daf35fd4b78",
+      "status": "pending",
+      "added_at": "2025-08-12T11:19:32.244793",
+      "processed_at": null,
+      "tracks_count": 0,
+      "success_count": 0,
+      "error": null
+    },
+    {
+      "name": "shreya-ghoshal-hits",
+      "url": "https://open.spotify.com/playlist/0haHy5mvWMylAU8DeLcP0b?si=12681863a58d4c4d",
+      "status": "pending",
+      "added_at": "2025-08-12T11:19:45.855792",
+      "processed_at": null,
+      "tracks_count": 0,
+      "success_count": 0,
+      "error": null
+    },
+    {
+      "name": "sid-sriram-hits",
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DWURwnI16u16C?si=b3030b877d2e4b23",
+      "status": "pending",
+      "added_at": "2025-08-12T11:19:57.816669",
+      "processed_at": null,
+      "tracks_count": 0,
+      "success_count": 0,
+      "error": null
+    },
+    {
+      "name": "chinmayi-sripada-all-songs",
+      "url": "https://open.spotify.com/playlist/40fuPY1yHYCLR9YQ5tg4ls?si=6b7450463b4c4da4",
+      "status": "pending",
+      "added_at": "2025-08-12T11:20:09.736220",
+      "processed_at": null,
+      "tracks_count": 0,
+      "success_count": 0,
+      "error": null
+    },
+    {
+      "name": "Dhee-all-songs",
+      "url": "https://open.spotify.com/playlist/4GQpd20RBt5UigN6VNPokz?si=b4cff8cffdb34630",
+      "status": "pending",
+      "added_at": "2025-08-12T11:20:19.494114",
+      "processed_at": null,
+      "tracks_count": 0,
+      "success_count": 0,
+      "error": null
+    }
+  ],
+  "current_index": 0,
+  "total_playlists": 5,
+  "last_updated": "2025-08-12T11:20:27.059258",
+  "batch_created": null
+}

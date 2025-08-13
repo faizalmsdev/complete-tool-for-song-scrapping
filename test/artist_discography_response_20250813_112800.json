@@ -1,0 +1,394 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Mano"
+                    },
+                    "uri": "spotify:artist:3NzhVoa20crNtp1p4zE8um"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 298184
+              },
+              "name": "Idhazhgal Urasum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:7wXMWIuQmmkPowi8wh2t8B"
+            },
+            "uid": "3f29a80a65a54161b732"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Mano"
+                    },
+                    "uri": "spotify:artist:3NzhVoa20crNtp1p4zE8um"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 292629
+              },
+              "name": "Poomele Viricha Metha",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:0iVNycKVkm3hp0dX9PXLd4"
+            },
+            "uid": "d7773d25145654a1f95c"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 296855
+              },
+              "name": "En Uyirin Uyire",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:7MuZu7B80rTvT57E9P80lk"
+            },
+            "uid": "bd1b07c12e3ad9cbb432"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 309346
+              },
+              "name": "Onnu Rendu",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:0UpTZA24yeKKSzldGOpaGJ"
+            },
+            "uid": "0baec816ff6c95a51410"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Mano"
+                    },
+                    "uri": "spotify:artist:3NzhVoa20crNtp1p4zE8um"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 281645
+              },
+              "name": "Sundhariyin Raangi (Kalluri Kuyiludoy)",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:4ZxzbW6zeXhtQRbtvobmxy"
+            },
+            "uid": "19a51764350e03dfdfba"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 312141
+              },
+              "name": "En Uyir Nee Santhi",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:1KVNpG5enGIWBMW6XsHgXq"
+            },
+            "uid": "73ba5f56f6560f9015a5"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 317061
+              },
+              "name": "Ye Raasa",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:27e9aZEyXxxYNXKgRs2MxV"
+            },
+            "uid": "2c683600772f385947ed"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Latha Malathi"
+                    },
+                    "uri": "spotify:artist:0vvNM26uLR7SvwJyqf3OcC"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 325690
+              },
+              "name": "Idhazhgal Urasum - Theme",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1155",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:2Z30W0Mbwwa7aTB9N4Fct5"
+            },
+            "uid": "e022d8fad1cf97e70763"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Mano"
+                    },
+                    "uri": "spotify:artist:3NzhVoa20crNtp1p4zE8um"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 317488
+              },
+              "name": "Ponna Follow",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:61sj2yo46WXPwKDU7s7RyR"
+            },
+            "uid": "2e5bd35563d47c7db9c4"
+          }
+        ],
+        "totalCount": 9
+      }
+    }
+  },
+  "extensions": {}
+}

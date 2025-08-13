@@ -1,0 +1,64 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "Dharmateja"
+                    },
+                    "uri": "spotify:artist:4CjDouVKiLBCjhb8n5aho5"
+                  },
+                  {
+                    "profile": {
+                      "name": "Amma Rajashekar"
+                    },
+                    "uri": "spotify:artist:5HgMQXCMNsJeVAT8exXVqK"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 185196
+              },
+              "name": "Kalayile Koovuthu (From \"Vettu\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "42466",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:645vAT6TMJ9xHoU86u4KhO"
+            },
+            "uid": "5e26cbdb480c9789192c"
+          }
+        ],
+        "totalCount": 1
+      }
+    }
+  },
+  "extensions": {}
+}

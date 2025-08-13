@@ -1,0 +1,244 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 341524
+              },
+              "name": "Vechcha Kuri",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "64119",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:2HfVyKtKNkzzSbupZnJ3wp"
+            },
+            "uid": "32dd4d3edf96d4fad7b6"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 262217
+              },
+              "name": "Kuthu Vizhakaga",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "481605",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:6bbfopTLBbMEoO8CZBBErT"
+            },
+            "uid": "1b13d4294479686937d2"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 276741
+              },
+              "name": "Thottadum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "3816",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:1pvhIn1nDPn8LCCv1F7ZSy"
+            },
+            "uid": "8958169f7684b9735852"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Malaysia Vasudevan"
+                    },
+                    "uri": "spotify:artist:0qS0rxCY4YfrUx9GCTlDIW"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 273841
+              },
+              "name": "Vazhkai Oru",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "31291",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:3DTezwGdZmWkzsha0CndW0"
+            },
+            "uid": "ba2eb16392756f65f001"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 281652
+              },
+              "name": "Bodai Yethum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "8557",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:7w1K539hTD3cr4uEL7P0Z1"
+            },
+            "uid": "ae3fa9202d71ab6a20e5"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Malaysia Vasudevan"
+                    },
+                    "uri": "spotify:artist:0qS0rxCY4YfrUx9GCTlDIW"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 303568
+              },
+              "name": "Paadum Vayirumdhan",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "6209",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:7iJGtR4Vc4i3yTyFFdMqBf"
+            },
+            "uid": "bf700a5e7e155369c022"
+          }
+        ],
+        "totalCount": 6
+      }
+    }
+  },
+  "extensions": {}
+}

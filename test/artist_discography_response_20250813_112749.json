@@ -1,0 +1,214 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Malaysia Vasudevan"
+                    },
+                    "uri": "spotify:artist:0qS0rxCY4YfrUx9GCTlDIW"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 372793
+              },
+              "name": "Aavani Masathilla",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:5SvEsiAlD8xx6cx7TdmW22"
+            },
+            "uid": "f7bcb849c8ce5b1b8059"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Mano"
+                    },
+                    "uri": "spotify:artist:3NzhVoa20crNtp1p4zE8um"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 290011
+              },
+              "name": "Brahma Devan",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1002",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:5OjCTbK41aWgk2GRC1JDgh"
+            },
+            "uid": "badb662e8f1649e03dea"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gangai Amaran"
+                    },
+                    "uri": "spotify:artist:0wAdPB0vUICwqg1U5iGUJV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 287529
+              },
+              "name": "Kummi Adikkira",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "2045",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:1MdU0BGm8FrA6bl9TqcELZ"
+            },
+            "uid": "954bbb18e64217953f18"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "P. Jayachandran"
+                    },
+                    "uri": "spotify:artist:2HujlDCi1ggnUSdfgipUxE"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 265874
+              },
+              "name": "Etri Vaitha",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:2isPJiRcd1ZJzbwUO8KWew"
+            },
+            "uid": "6dd5ca5a20cbb1888580"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Mano"
+                    },
+                    "uri": "spotify:artist:3NzhVoa20crNtp1p4zE8um"
+                  },
+                  {
+                    "profile": {
+                      "name": "Vani Jairam"
+                    },
+                    "uri": "spotify:artist:17Jj3Xia6crs4OatDEpuMR"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 289201
+              },
+              "name": "Chinna Ponnu",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:3dl1Xh1hJRPReGQ3jVPYq0"
+            },
+            "uid": "6a23789626063ba6bf9b"
+          }
+        ],
+        "totalCount": 5
+      }
+    }
+  },
+  "extensions": {}
+}

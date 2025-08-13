@@ -1,0 +1,64 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Anirudh Ravichander"
+                    },
+                    "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "Arivu"
+                    },
+                    "uri": "spotify:artist:7rVV9d6vc4FLT752uRuk71"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 1
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 216081
+              },
+              "name": "Chikitu (From \"Coolie\") (Tamil)",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "9506859",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:5L9BSBipkfupud0335Mhjj"
+            },
+            "uid": "d1e2fabd4f5255bee354"
+          }
+        ],
+        "totalCount": 1
+      }
+    }
+  },
+  "extensions": {}
+}

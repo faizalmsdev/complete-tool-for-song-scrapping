@@ -1,0 +1,286 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  },
+                  {
+                    "profile": {
+                      "name": "B.S. Sasirekha"
+                    },
+                    "uri": "spotify:artist:1ew3IffJ5uXmH2CIhvooBX"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 303026
+              },
+              "name": "Endhan Paadalgalil",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1561386",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:4F1CH9cfGMqFnkRGjhSR9N"
+            },
+            "uid": "70a8ffe2bb0c1e9726e5"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 253266
+              },
+              "name": "Adangoppan Mavane",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "39514",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:3eZ4RLZTmcmeWHPAcsUP6r"
+            },
+            "uid": "4dcac1aff2b27cd75827"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 298040
+              },
+              "name": "Intha Malligai Manasai",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "219198",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:0P9FtTn9loZhcYkhtH67ES"
+            },
+            "uid": "303d0384d242738655d9"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 267466
+              },
+              "name": "Powrnami Nilavenna",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "31969",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:3dgMr3JNiuvaSXGSXkM8XU"
+            },
+            "uid": "01ca55e42b4e00cbadb1"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 261302
+              },
+              "name": "Pakkathil Vanthalenna",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "77108",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:2zOuqqKwwArZT0U0mqyz1y"
+            },
+            "uid": "69aedda3bb55dd8eb60a"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "P. Susheela"
+                    },
+                    "uri": "spotify:artist:0aFGod7DM6b3O5l1AmvFwK"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 266318
+              },
+              "name": "Pullainga Perulathan",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "24927",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:28gr1Rnf6prjP8bzgJrPdO"
+            },
+            "uid": "32345dc55de42e68b238"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 271699
+              },
+              "name": "Viragathapamenum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "24065",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:1rXllq8BLqqySmwrz2RThK"
+            },
+            "uid": "b1f850f1ed870f8dd873"
+          }
+        ],
+        "totalCount": 7
+      }
+    }
+  },
+  "extensions": {}
+}

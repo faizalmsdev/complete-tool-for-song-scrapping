@@ -1,0 +1,598 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Shankar Mahadevan"
+                    },
+                    "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 392020
+              },
+              "name": "Pilaiyar Suzhi (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "225832",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:018ErBu8VakmNbgQTLdA1F"
+            },
+            "uid": "e8f52539b6ae235683d0"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 177345
+              },
+              "name": "Vetri Nadai (From \"Sri Bannari Amman\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "156602",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:3ebqaE3OXTMytS6H3pktyT"
+            },
+            "uid": "95de01f0bebdd88c1a6a"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Unnikrishnan"
+                    },
+                    "uri": "spotify:artist:0mV4UQ0gHg59AAUtg968pX"
+                  },
+                  {
+                    "profile": {
+                      "name": "Silambarasan TR"
+                    },
+                    "uri": "spotify:artist:5Hn84AFwiTEi8eMoI5B9AS"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 367730
+              },
+              "name": "Paarkadha Podhu Podhu (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1747662",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:3xUTYvv4yexNQTaaNaedOl"
+            },
+            "uid": "89de97f35949700ffc9f"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Silambarasan TR"
+                    },
+                    "uri": "spotify:artist:5Hn84AFwiTEi8eMoI5B9AS"
+                  },
+                  {
+                    "profile": {
+                      "name": "Harini"
+                    },
+                    "uri": "spotify:artist:41BeeC5hYqvtGkM79RYvN4"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 439719
+              },
+              "name": "Kalakkuthu Karagaatam (From \"Sri Bannari Amman\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "22079",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:4bUsKS9YhLkaPWWAHnf41q"
+            },
+            "uid": "6044402b18c504416ac3"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Prasanna Rao"
+                    },
+                    "uri": "spotify:artist:0Ua5rtJ04N2ouPKAlm0lDG"
+                  },
+                  {
+                    "profile": {
+                      "name": "Srivardhani Kuchi"
+                    },
+                    "uri": "spotify:artist:6bmhUYiasV6rSORgLmHYZ4"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 369352
+              },
+              "name": "En Manasil (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1370985",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:3Ejk0s1wqqrdEXWPJnuiA0"
+            },
+            "uid": "2749d8e134f74176683c"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  },
+                  {
+                    "profile": {
+                      "name": "Sujatha"
+                    },
+                    "uri": "spotify:artist:2JEjaa7hWhE1BbL3OcoeFR"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 406648
+              },
+              "name": "Nambinorai (From \"Sri Bannari Amman\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "203020",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:1nDzloOYsTwc1Bai3C7zw2"
+            },
+            "uid": "a5a8ff84436ae7799d5f"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 346692
+              },
+              "name": "Evanthan (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "144911",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:2oOvJormzHTilmsojjbZe9"
+            },
+            "uid": "0da4ccda66a55f6c7957"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Anuradha Sriram"
+                    },
+                    "uri": "spotify:artist:5ObQXIcqKtQENK14lQyqiy"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 493975
+              },
+              "name": "Thalattu Kettathillai (From \"Sri Bannari Amman\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "28622",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:6nNYhI9v6h4RvecoV7FYhf"
+            },
+            "uid": "2e38fa5d1d7f6267a061"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 410509
+              },
+              "name": "Kadhal Azhivathilai (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "934101",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:4Hu1z99eVp3RsmXRUvXXZ0"
+            },
+            "uid": "58d85257566214517a22"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Nithyasree"
+                    },
+                    "uri": "spotify:artist:6yLXX4buMky6p4XAwLmrNS"
+                  },
+                  {
+                    "profile": {
+                      "name": "Swarnalatha"
+                    },
+                    "uri": "spotify:artist:7N0SBLJFpCyQSsv4MfRJ5d"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 394213
+              },
+              "name": "Kallaanalum Kanavanthan (From \"Sri Bannari Amman\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "51378",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 10,
+              "uri": "spotify:track:1xIL9wTxxT6Q4thLV5zAvZ"
+            },
+            "uid": "655e553b545d096864a1"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tippu"
+                    },
+                    "uri": "spotify:artist:0PykiHCcDsMPRV7s67qZ1B"
+                  },
+                  {
+                    "profile": {
+                      "name": "Chandralekha Annupamaa"
+                    },
+                    "uri": "spotify:artist:2qpBRQ66e1zdpzBVNklhSv"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 383749
+              },
+              "name": "Maara Maara (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "113786",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 11,
+              "uri": "spotify:track:0FBjISkt0XCsGbB17wh3Oo"
+            },
+            "uid": "e6a0778e44e8ac1c7a7e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 190406
+              },
+              "name": "Roopamani (From \"Sri Bannari Amman\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "140082",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 12,
+              "uri": "spotify:track:1Ey9MShuKD5wNuKCbJL2JT"
+            },
+            "uid": "86b98112f6ba7cbd19f4"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Silambarasan TR"
+                    },
+                    "uri": "spotify:artist:5Hn84AFwiTEi8eMoI5B9AS"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 301074
+              },
+              "name": "Jothikava (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "170996",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 13,
+              "uri": "spotify:track:1eswcmejVmgLSNVnQ6JyY3"
+            },
+            "uid": "72862e7402669b7fd8f1"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 416156
+              },
+              "name": "Vandhidu Vandhidu (From \"Sri Bannari Amman\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "363575",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 14,
+              "uri": "spotify:track:3LrbPpVFsMh6L7tWILkkUa"
+            },
+            "uid": "391007109134822d19d7"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Silambarasan TR"
+                    },
+                    "uri": "spotify:artist:5Hn84AFwiTEi8eMoI5B9AS"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 399889
+              },
+              "name": "Clinton Magalo (From \"Kadhal Azhivathilai\")",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "203893",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 15,
+              "uri": "spotify:track:5PwS9mcATn1xtNaVtxOux6"
+            },
+            "uid": "3093f1fc408a281b2b73"
+          }
+        ],
+        "totalCount": 15
+      }
+    }
+  },
+  "extensions": {}
+}

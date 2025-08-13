@@ -1,0 +1,448 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 289474
+              },
+              "name": "Ninaivo Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:0QrJwWd35EaiPu0kMbLU88"
+            },
+            "uid": "6285b1633cddd9655907"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 308170
+              },
+              "name": "Enthan Kannil Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:4XfOU4dcUcCLFAR40Y5TOb"
+            },
+            "uid": "0314a18bfbda6cdc1429"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 220676
+              },
+              "name": "Vaasamilla Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:1eBtyDttVm1MUWNbja5AbW"
+            },
+            "uid": "480ca1e2cd860818fc75"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 246645
+              },
+              "name": "Yae Paadal Ondru Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:4mp0hKBNjVq4z4wWgVNTlp"
+            },
+            "uid": "15f1c5a5b390ab85aff9"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 211185
+              },
+              "name": "Idhayam Poguthe Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:54iie8aFPHEYfIxt93anGd"
+            },
+            "uid": "ba2480aef7a186e71649"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 271178
+              },
+              "name": "Kanmaniyae Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:4yfaW8kb0pdtzxT8YUE01J"
+            },
+            "uid": "a91bcbb2e397a4231347"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 244956
+              },
+              "name": "Kaathal Vaibhogame Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:0j5yoTztikvCxGW7zWYhaF"
+            },
+            "uid": "1ae8d82765c9e15c97c4"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 291035
+              },
+              "name": "Paruvame Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:54p2rVIZSDxOjEAWHf8M1h"
+            },
+            "uid": "357f8b77468dbcc2d8fa"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 238350
+              },
+              "name": "Ennuyir Neethaane Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:7o6E9A1EzMqiCeXhuZ41Uw"
+            },
+            "uid": "84a2db8c3aca3d9ada35"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 236661
+              },
+              "name": "Pala Naal Aasai Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 10,
+              "uri": "spotify:track:30MN2rY1SkTTJbkgXS1lGd"
+            },
+            "uid": "ed45b1750e67523f955a"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 181539
+              },
+              "name": "Akkarai Seemai Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 11,
+              "uri": "spotify:track:0u09aGb1u4EWHSUpoKsPhR"
+            },
+            "uid": "705444804448054f8154"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Gokul"
+                    },
+                    "uri": "spotify:artist:3bCJTnmtQmegCWTArQLWCV"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 235206
+              },
+              "name": "Enna Sugamana Instrumental",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 12,
+              "uri": "spotify:track:7p2aTP1Xd9YyjIJCoHfGcH"
+            },
+            "uid": "d08b40f4a80c2591787c"
+          }
+        ],
+        "totalCount": 12
+      }
+    }
+  },
+  "extensions": {}
+}

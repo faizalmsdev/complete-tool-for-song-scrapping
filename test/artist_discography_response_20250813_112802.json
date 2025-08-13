@@ -1,0 +1,286 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 267533
+              },
+              "name": "En Aasaikkanna",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:0O3HjpfNIj0HChxopGSbla"
+            },
+            "uid": "e17c64b88da571c8a85a"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 271613
+              },
+              "name": "Oru Pullankuzhal Oomai Anadhu",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "3172",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:24Yh9aTUtdNw4dN4eYQVm8"
+            },
+            "uid": "5cb817ca75e2147f5858"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 274026
+              },
+              "name": "Mathivodu Kathai Pesum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "2426",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:1NSYcqqBa7riLCYh5nfyop"
+            },
+            "uid": "7f7bb0e25b140f10e983"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. P. Sailaja"
+                    },
+                    "uri": "spotify:artist:0w1zspBrCXnMx8CcB1WR31"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 274480
+              },
+              "name": "Ilavatta Nilavukku",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "2886",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:1TUdfI3ZCzII0LA9RRilWM"
+            },
+            "uid": "34b9a99e02948ce4a878"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 280120
+              },
+              "name": "Instrumental Tunes - Oru Moha Ragam",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "1193",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:5Z7qBRiCBZF89UPcyExciH"
+            },
+            "uid": "af36b7694841d2538a1e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  },
+                  {
+                    "profile": {
+                      "name": "Rajkumar Bharathi"
+                    },
+                    "uri": "spotify:artist:7qmDhVWCrIHIvIAo7b7KTa"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 280360
+              },
+              "name": "Oru Moha Ragam",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "36444",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:460dYVqvNblv6pQNItTyH0"
+            },
+            "uid": "14d40b85406109ed4013"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 277706
+              },
+              "name": "Instrumental Tunes - Ilavatta Nilavukku",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "3511",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:2qxYI970V9RKU6OyJhN6Xu"
+            },
+            "uid": "c6778f59f588e702e37a"
+          }
+        ],
+        "totalCount": 7
+      }
+    }
+  },
+  "extensions": {}
+}

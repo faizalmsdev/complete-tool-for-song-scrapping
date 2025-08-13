@@ -1,0 +1,124 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 241986
+              },
+              "name": "Njanorurasi",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:2aRFbTZ71NJ9CdH6BzcklH"
+            },
+            "uid": "7e7207a37584171ef7f1"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Malayesia Vasudevan"
+                    },
+                    "uri": "spotify:artist:1DJTY05VIFBG58FdMcMkG3"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 198805
+              },
+              "name": "Koodayile",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:7gH4ok690A41Lc0ShrXaJs"
+            },
+            "uid": "df63b049898294b9cfac"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 267225
+              },
+              "name": "Ethupaithal",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "0",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:2I5ZmhIafwy5rq7W8Cp1Wk"
+            },
+            "uid": "7e6229b16ce1287f2a80"
+          }
+        ],
+        "totalCount": 3
+      }
+    }
+  },
+  "extensions": {}
+}

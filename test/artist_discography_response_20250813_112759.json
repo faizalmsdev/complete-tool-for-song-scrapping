@@ -1,0 +1,574 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 216800
+              },
+              "name": "Poo Ondru Valarthen",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "146361",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:6NeIlgafHJValpdDmoPLcd"
+            },
+            "uid": "d5e09c8d23d5b69b9ff2"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 282493
+              },
+              "name": "Poo Vaangi Vanda Neram",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "450198",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:54mpbJuf75QubWb4Q80S8d"
+            },
+            "uid": "946ba7798a8d8c250381"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 286466
+              },
+              "name": "Viradathil Naanum",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "439645",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:6Q4r4fO2nuN9AkS6ckw6C3"
+            },
+            "uid": "6fb06a3660edb3db0775"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "Sasirekha"
+                    },
+                    "uri": "spotify:artist:4sCLgX1aSZpKK2RVzlOyJl"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 340266
+              },
+              "name": "Pottane Moonu Muducchithan",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "184915",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:0JmaeSojW2M0nDvkkoYDuM"
+            },
+            "uid": "c402a2f9d32ce471c582"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 323466
+              },
+              "name": "Degam Suduguthu Vaadi",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "260003",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:3RDczM0FS4ideTOUwken27"
+            },
+            "uid": "4dfeff925cd5cdc5fea5"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 192466
+              },
+              "name": "Eilame En Thangachi",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "145572",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:1YAoLbxQ8aqLi7cCzH5pFo"
+            },
+            "uid": "3cf77c8fe44a6c2fa372"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 288133
+              },
+              "name": "Thannadhani Kattukkulle",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "599185",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:6cyXQIdLLnomqTnRTdIpC6"
+            },
+            "uid": "267a3efe0956b3c7a239"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "Uma Ramanan"
+                    },
+                    "uri": "spotify:artist:6GpH0yFzkhoxcoNrX6kw48"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 292133
+              },
+              "name": "Raakozhi Koovayile",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "401253",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:76DqFfMnVTFFTJOpw6VXbR"
+            },
+            "uid": "09ad879867b720b55b35"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  },
+                  {
+                    "profile": {
+                      "name": "S. Janaki"
+                    },
+                    "uri": "spotify:artist:5Xpg6PBSUOoho2lI9qLjiu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 339440
+              },
+              "name": "Enathu Gaanam",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "169304",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:5bIC9pfIoac1BD8KGQWzEL"
+            },
+            "uid": "d36b74472fd45da5a3c9"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "Doctor Kalyanam"
+                    },
+                    "uri": "spotify:artist:18gS0txxKK9KfzMpcic18z"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 293400
+              },
+              "name": "Ammaadiyow",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "71843",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 10,
+              "uri": "spotify:track:1vrbwMW0yfKtU2SAqIgfqA"
+            },
+            "uid": "db5adafc2764f7247195"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 333666
+              },
+              "name": "Thihumananthan",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "98507",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 11,
+              "uri": "spotify:track:4Qz9ox7MQqbPlLhQWCUmES"
+            },
+            "uid": "1db0e047c6710cb0b9fa"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 280160
+              },
+              "name": "Sollamatthane",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "380834",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 12,
+              "uri": "spotify:track:2MI9ZnI91KHYGOU0qT5PQa"
+            },
+            "uid": "2e3c883e9e4c52d8a5ba"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  },
+                  {
+                    "profile": {
+                      "name": "Uma Ramanan"
+                    },
+                    "uri": "spotify:artist:6GpH0yFzkhoxcoNrX6kw48"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 302533
+              },
+              "name": "Saaral Kaaththulatharan",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "117457",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 13,
+              "uri": "spotify:track:33hW0PrQwyqZdDKPVCYQoi"
+            },
+            "uid": "8c1ee7f8b6948bd8ee1b"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Vidya"
+                    },
+                    "uri": "spotify:artist:03hGvnQSf1BvVQU3N40js6"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 56600
+              },
+              "name": "Magane Neeyuranga",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "23163",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 14,
+              "uri": "spotify:track:6Z1Wcv9exhpDA057yesk25"
+            },
+            "uid": "b1466ea7aee6631040ad"
+          }
+        ],
+        "totalCount": 14
+      }
+    }
+  },
+  "extensions": {}
+}

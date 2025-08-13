@@ -1,0 +1,52 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "S. P. Balasubrahmanyam"
+                    },
+                    "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 147427
+              },
+              "name": "Vetri Meethu Vetri Vandhu - Reprised",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "11054",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:5L3ApOZzYrNCKvL6TZKXfU"
+            },
+            "uid": "671f669b2c1d3d634487"
+          }
+        ],
+        "totalCount": 1
+      }
+    }
+  },
+  "extensions": {}
+}

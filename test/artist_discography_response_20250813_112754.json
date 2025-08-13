@@ -1,0 +1,370 @@
+{
+  "data": {
+    "albumUnion": {
+      "__typename": "Album",
+      "playability": {
+        "playable": true
+      },
+      "tracksV2": {
+        "items": [
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Hariharan"
+                    },
+                    "uri": "spotify:artist:2NoJ7NuNs9nyj8Thoh1kbu"
+                  },
+                  {
+                    "profile": {
+                      "name": "K. S. Chithra"
+                    },
+                    "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 337790
+              },
+              "name": "Sonnalthaan Kathala",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "67227",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 1,
+              "uri": "spotify:track:1w6Lko2L8D4L9yg4tXxyTk"
+            },
+            "uid": "7659cca0c34ad1a21377"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Vasundhara Das"
+                    },
+                    "uri": "spotify:artist:0myVJmNOHZ7v7g8JVWGw8H"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 324360
+              },
+              "name": "Vaada Vaada",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "242247",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 2,
+              "uri": "spotify:track:5KgM4UlNw4YfjLLEYH6ffg"
+            },
+            "uid": "8a1a1eaed82683700b23"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Shankar Mahadevan"
+                    },
+                    "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 316466
+              },
+              "name": "Vela Vela",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "28020",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 3,
+              "uri": "spotify:track:5gXpttSLkATIw0awMqcM3f"
+            },
+            "uid": "b930a7aa78022cc05868"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Tippu"
+                    },
+                    "uri": "spotify:artist:0PykiHCcDsMPRV7s67qZ1B"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 314672
+              },
+              "name": "Chukmala Chukmala",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "7155",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 4,
+              "uri": "spotify:track:44rFxKXvOot30lhrFiMAb9"
+            },
+            "uid": "bdbe441b270012bc2bbc"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Krishnaraj"
+                    },
+                    "uri": "spotify:artist:7MDmRUuLmi5m5mz9Ux2IWM"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 327160
+              },
+              "name": "Kaathalikka Theriyuma",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "9054",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 5,
+              "uri": "spotify:track:6UTjUenkIVhDqXDFVOa8dp"
+            },
+            "uid": "d081e77226727724b7bb"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Hariharan"
+                    },
+                    "uri": "spotify:artist:2NoJ7NuNs9nyj8Thoh1kbu"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 337626
+              },
+              "name": "Sonnalthaan Kathala - Solo",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "67227",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 6,
+              "uri": "spotify:track:0dKRsE1M12SenKB5liLu0t"
+            },
+            "uid": "3e8fb7da9d96d276853e"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "K. J. Yesudas"
+                    },
+                    "uri": "spotify:artist:2wPsNCwhEGb0KvChZ5DD52"
+                  },
+                  {
+                    "profile": {
+                      "name": "Balesh"
+                    },
+                    "uri": "spotify:artist:0p3Vu6Y91zE8BUaAKFqzxy"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 329426
+              },
+              "name": "Rosaappoove Rosaappoove",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "7281",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 7,
+              "uri": "spotify:track:4TEr5wRCVWuD6fo7n7Dwuo"
+            },
+            "uid": "83454c55c81c08f562d8"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Silambarasan TR"
+                    },
+                    "uri": "spotify:artist:5Hn84AFwiTEi8eMoI5B9AS"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 332906
+              },
+              "name": "Mullaaga Kuththakkoodaathu",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "142380",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 8,
+              "uri": "spotify:track:6Sf4InbA2zhtnqbfbGJxzC"
+            },
+            "uid": "32d579863ab3726bca1d"
+          },
+          {
+            "track": {
+              "artists": {
+                "items": [
+                  {
+                    "profile": {
+                      "name": "Shankar Mahadevan"
+                    },
+                    "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+                  },
+                  {
+                    "profile": {
+                      "name": "T. Rajendar"
+                    },
+                    "uri": "spotify:artist:4UDzzsfKqZUs5bDy3cisle"
+                  }
+                ]
+              },
+              "associationsV3": {
+                "videoAssociations": {
+                  "totalCount": 0
+                }
+              },
+              "contentRating": {
+                "label": "NONE"
+              },
+              "discNumber": 1,
+              "duration": {
+                "totalMilliseconds": 285648
+              },
+              "name": "Dheentarikida",
+              "playability": {
+                "playable": true
+              },
+              "playcount": "5799",
+              "relinkingInformation": null,
+              "saved": false,
+              "trackNumber": 9,
+              "uri": "spotify:track:5AzmV9KHZ69qUyfeijWfKQ"
+            },
+            "uid": "4cf7635ed7f622780d17"
+          }
+        ],
+        "totalCount": 9
+      }
+    }
+  },
+  "extensions": {}
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MP3 Player</title>
+  <style>
+    body {
+      background-color: #121212;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      color: white;
+      font-family: sans-serif;
+    }
+    .player {
+      background: #1db954;
+      padding: 20px;
+      border-radius: 12px;
+      width: 300px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+      text-align: center;
+    }
+    audio {
+      width: 100%;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="player">
+    <div>Now Playing</div>
+    <audio controls>
+      <source src="https://raw.githubusercontent.com/faizalmsdev/audio-player/master/public/consolidated_music/songs/song_000898caab64.mp3" type="audio/mp3">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</body>
+</html>
