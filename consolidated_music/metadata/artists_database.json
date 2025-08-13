@@ -6,10 +6,11 @@
       "playlist_ids": [
         "anirudhravichander",
         "artist_4UDzzsfKqZUs5bDy3cisle",
-        "artist_7rVV9d6vc4FLT752uRuk71"
+        "artist_7rVV9d6vc4FLT752uRuk71",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-12T15:09:42.524680",
-      "last_updated": "2025-08-13T16:15:16.051348"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:4UDzzsfKqZUs5bDy3cisle": {
       "name": "T. Rajendar",
@@ -28,10 +29,11 @@
       "playlist_ids": [
         "anirudhravichander",
         "artist_4UDzzsfKqZUs5bDy3cisle",
-        "artist_7rVV9d6vc4FLT752uRuk71"
+        "artist_7rVV9d6vc4FLT752uRuk71",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-12T15:09:42.524680",
-      "last_updated": "2025-08-13T16:15:16.051348"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:139FRgoVcJ82jogPttiWcc": {
       "name": "Sai Smriti",
@@ -49,10 +51,11 @@
       "uri": "spotify:artist:6PtoffEX0RiktNdmCeuWkl",
       "playlist_ids": [
         "anirudhravichander",
-        "artist_7rVV9d6vc4FLT752uRuk71"
+        "artist_7rVV9d6vc4FLT752uRuk71",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-12T15:09:42.524680",
-      "last_updated": "2025-08-13T16:15:16.051348"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:3bsrlEbnX8sWwXlTe80RSr": {
       "name": "Heisenberg",
@@ -183,10 +186,11 @@
       "name": "Krishna Kanth",
       "uri": "spotify:artist:2yvOLf1gt6m9qPgzzqpxQx",
       "playlist_ids": [
-        "anirudhravichander"
+        "anirudhravichander",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-12T15:09:42.525679",
-      "last_updated": "2025-08-12T15:09:42.525679"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:4hBCDHUWTljP6BDl5AekgW": {
       "name": "Vivek - Mervin",
@@ -1330,10 +1334,11 @@
       "name": "Kumaar",
       "uri": "spotify:artist:0m3D4grap8VFSzbJMqgNVk",
       "playlist_ids": [
-        "anirudhravichander"
+        "anirudhravichander",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-12T15:09:42.673173",
-      "last_updated": "2025-08-12T15:09:42.673173"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:06V3WlbxMpgl639AJoFH7C": {
       "name": "Sri Krishna",
@@ -1468,10 +1473,11 @@
       "uri": "spotify:artist:61if35zz1W11GejEkxTLEQ",
       "playlist_ids": [
         "anirudhravichander",
-        "artist_7rVV9d6vc4FLT752uRuk71"
+        "artist_7rVV9d6vc4FLT752uRuk71",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-12T15:09:42.674174",
-      "last_updated": "2025-08-13T16:15:16.051348"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:1YYlKQ8S26WxCvXg1ULKvC": {
       "name": "Alvin Bruno",
@@ -1696,10 +1702,11 @@
       "name": "Sanjeeta Bhattacharya",
       "uri": "spotify:artist:4Kz7utJFZMqzO9lS4mfgvc",
       "playlist_ids": [
-        "anirudhravichander"
+        "anirudhravichander",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-12T15:09:42.677178",
-      "last_updated": "2025-08-12T15:09:42.677178"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:2MPdHKsDL3AQ1dfKfCjbr0": {
       "name": "Mahalingam",
@@ -4967,10 +4974,11 @@
       "name": "Ricky Kej",
       "uri": "spotify:artist:2pG6h1xYYv5j7fuxackcfl",
       "playlist_ids": [
-        "artist_7rVV9d6vc4FLT752uRuk71"
+        "artist_7rVV9d6vc4FLT752uRuk71",
+        "artist_6PtoffEX0RiktNdmCeuWkl"
       ],
       "created_at": "2025-08-13T16:15:16.051348",
-      "last_updated": "2025-08-13T16:15:16.051348"
+      "last_updated": "2025-08-13T16:50:42.453996"
     },
     "spotify:artist:3LD9XZiPlKNV4rflGLLvo4": {
       "name": "Rasika Shekar",
@@ -5142,8 +5150,305 @@
       ],
       "created_at": "2025-08-13T16:48:35.018125",
       "last_updated": "2025-08-13T16:48:35.018125"
+    },
+    "spotify:artist:008i2UfJvuTt22XDlELKwK": {
+      "name": "Mahendra Dhirajlal Kamdar",
+      "uri": "spotify:artist:008i2UfJvuTt22XDlELKwK",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:6Wr5reUqHQhpBTLgn82r88": {
+      "name": "Lopamudra Bandyopadhyay",
+      "uri": "spotify:artist:6Wr5reUqHQhpBTLgn82r88",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:0NErdIJtuKBjtxKmlqaWdj": {
+      "name": "Divya Kumar",
+      "uri": "spotify:artist:0NErdIJtuKBjtxKmlqaWdj",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:0GiAC4VvvYCypjRH6IiasK": {
+      "name": "Surya Ragunaathan",
+      "uri": "spotify:artist:0GiAC4VvvYCypjRH6IiasK",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:6QZ9j9mRTThve5Qmv0a6kh": {
+      "name": "Chandan Raina",
+      "uri": "spotify:artist:6QZ9j9mRTThve5Qmv0a6kh",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:3c80ccDH0a6xrV8Y3UAYKX": {
+      "name": "The Red Kettle",
+      "uri": "spotify:artist:3c80ccDH0a6xrV8Y3UAYKX",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:78NOPLmBy6GWf6U7WcEZPC": {
+      "name": "Buddhaa M",
+      "uri": "spotify:artist:78NOPLmBy6GWf6U7WcEZPC",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:5HH9WTgUzO8ZIiqrxPiwiv": {
+      "name": "Danish Sood",
+      "uri": "spotify:artist:5HH9WTgUzO8ZIiqrxPiwiv",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:1ya10z3LXp7aFFQMBC0Ycm": {
+      "name": "Amrit Ramnath",
+      "uri": "spotify:artist:1ya10z3LXp7aFFQMBC0Ycm",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr": {
+      "name": "Amit Trivedi",
+      "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:7eOJWb46NigDCqzJwvicIp": {
+      "name": "Gilbert Chettiar",
+      "uri": "spotify:artist:7eOJWb46NigDCqzJwvicIp",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:59pq5Vw16UDkR9txoPKv86": {
+      "name": "Prakriti Kakar",
+      "uri": "spotify:artist:59pq5Vw16UDkR9txoPKv86",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:16m66acFCoUlPwjQf9D6fN": {
+      "name": "Moosa Saleem",
+      "uri": "spotify:artist:16m66acFCoUlPwjQf9D6fN",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:2kdZPMR6ce9gMCDShQefzj": {
+      "name": "Maanaav Podaar",
+      "uri": "spotify:artist:2kdZPMR6ce9gMCDShQefzj",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:0aBR5mjTBGRldW8SbQrFlP": {
+      "name": "NEERAJ.NRP",
+      "uri": "spotify:artist:0aBR5mjTBGRldW8SbQrFlP",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:4ZzECUqkTanDNwETVQ0v3P": {
+      "name": "Sukhamrit-Sachin",
+      "uri": "spotify:artist:4ZzECUqkTanDNwETVQ0v3P",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:0ddRDcp6NMCPJ1Y4SbGATf": {
+      "name": "Crystal Sequeira",
+      "uri": "spotify:artist:0ddRDcp6NMCPJ1Y4SbGATf",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:4jOKBnkdydJAPCmacFHDA9": {
+      "name": "Shivansh Jindal",
+      "uri": "spotify:artist:4jOKBnkdydJAPCmacFHDA9",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:3HbsDinWqq6h7SXIjVEpIz": {
+      "name": "Rubayne",
+      "uri": "spotify:artist:3HbsDinWqq6h7SXIjVEpIz",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:5ZfMLZoRbNlaif3GOzvBBt": {
+      "name": "Vishal J Singh",
+      "uri": "spotify:artist:5ZfMLZoRbNlaif3GOzvBBt",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:3t7ETdfx920byltqt7vKI1": {
+      "name": "Ajay Jayanthi",
+      "uri": "spotify:artist:3t7ETdfx920byltqt7vKI1",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:42PoFjcPGbBfSKw3BQrCV4": {
+      "name": "Andrey Sazonov",
+      "uri": "spotify:artist:42PoFjcPGbBfSKw3BQrCV4",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:35vgybFbm6eWbWSTlhwasV": {
+      "name": "Kasturi Nath Singh",
+      "uri": "spotify:artist:35vgybFbm6eWbWSTlhwasV",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:4RxZ75B6Yu0KVHuezMG4qb": {
+      "name": "Sparsh The Band",
+      "uri": "spotify:artist:4RxZ75B6Yu0KVHuezMG4qb",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:2BYSYaaelm8x7KQpKT9I56": {
+      "name": "Animals Matters to Me and Sony MIX",
+      "uri": "spotify:artist:2BYSYaaelm8x7KQpKT9I56",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:4b3kNBbPCkPZSTDnGU548L": {
+      "name": "Animals matter to me",
+      "uri": "spotify:artist:4b3kNBbPCkPZSTDnGU548L",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:3BAOzRjHe8qlURUC3fDSTf": {
+      "name": "Rahul Sharma",
+      "uri": "spotify:artist:3BAOzRjHe8qlURUC3fDSTf",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:6q29t5RuXxlBuqIZsOMQss": {
+      "name": "Priya Saraiya",
+      "uri": "spotify:artist:6q29t5RuXxlBuqIZsOMQss",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:1mBydYMVBECdDmMfE2sEUO": {
+      "name": "Sachin-Jigar",
+      "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:1XZ69QWIZAVPlcJdHkuZn0": {
+      "name": "Preetika Rao",
+      "uri": "spotify:artist:1XZ69QWIZAVPlcJdHkuZn0",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:1JiK733G9BCaw5fxGJHt2t": {
+      "name": "Raghav",
+      "uri": "spotify:artist:1JiK733G9BCaw5fxGJHt2t",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:3E3bfEhQTESDeY4tEOHY84": {
+      "name": "Arjun",
+      "uri": "spotify:artist:3E3bfEhQTESDeY4tEOHY84",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
+    },
+    "spotify:artist:03CZcjA54h0fCMldJFPfSq": {
+      "name": "Pranay Rijia",
+      "uri": "spotify:artist:03CZcjA54h0fCMldJFPfSq",
+      "playlist_ids": [
+        "artist_6PtoffEX0RiktNdmCeuWkl"
+      ],
+      "created_at": "2025-08-13T16:50:42.453996",
+      "last_updated": "2025-08-13T16:50:42.453996"
     }
   },
-  "total_artists": 564,
-  "last_updated": "2025-08-13T16:48:36.217803"
+  "total_artists": 597,
+  "last_updated": "2025-08-13T16:58:53.898396"
 }
