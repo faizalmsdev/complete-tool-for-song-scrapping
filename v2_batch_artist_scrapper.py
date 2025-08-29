@@ -2,6 +2,7 @@
 """
 Enhanced Batch Artist Scraper with Automatic Scrolling
 This script processes multiple artist IDs continuously with automatic scrolling feature.
+Includes cookie support to avoid being blocked by YouTube/Spotify.
 """
 
 import json
@@ -14,6 +15,11 @@ import sys
 import requests
 import hashlib
 import shutil
+import gzip
+import brotli
+import zlib
+import logging
+import random  # For rotating user agents and proxies
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Set, Optional, Tuple
@@ -38,7 +44,7 @@ class Config:
     NO_CONTENT_THRESHOLD = 5  # Number of checks before considering scrolling complete
     
     # Download settings
-    AUDIO_QUALITY = '192K'
+    AUDIO_QUALITY = '320k'
     MAX_RETRIES = 3
     DOWNLOAD_DELAY = 1  # Seconds between downloads
     
@@ -60,6 +66,16 @@ class Config:
     
     # Batch processing settings
     DELAY_BETWEEN_ARTISTS = 3  # Seconds between processing different artists
+    
+    # Cookie settings
+    COOKIES_FILE = "cookies.txt"  # Path to cookies file for avoiding blocks
+    BROWSER_FOR_COOKIES = None   # Browser to extract cookies from (chrome, firefox, edge, etc.)
+    
+    # Anti-block settings
+    USE_SESSION_PER_ARTIST = True  # Create new browser session for each artist
+    ROTATE_USER_AGENTS = True     # Use different user agents for each session
+    USE_PROXIES = False           # Use proxies to avoid IP blocks
+    PROXY_LIST = []               # List of proxy URLs to rotate through
 
 # === GLOBAL VARIABLES ===
 captured_data = []
@@ -238,6 +254,27 @@ def check_prerequisites():
         return False
     
     install_required_packages()
+    
+    # Test cookies if available (matching FinalcodeWithCookies approach)
+    cookies_file = Config.COOKIES_FILE
+    if os.path.exists(cookies_file):
+        print(f"🍪 Testing cookies from: {cookies_file}")
+        try:
+            import yt_dlp
+            test_opts = {
+                'quiet': True,
+                'cookiefile': cookies_file,
+                'skip_download': True,
+                'extract_flat': True,
+                'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
+            }
+            with yt_dlp.YoutubeDL(test_opts) as ydl:
+                ydl.extract_info('https://www.youtube.com/watch?v=dQw4w9WgXcQ', download=False)
+            print("   ✅ Cookies are valid and working")
+        except Exception as e:
+            print(f"   ⚠️ Cookie test failed: {e}")
+            print("   💡 You may need to update your cookies.txt file")
+            
     return True
 
 def safe_get(data, *keys, default="Unknown"):
@@ -260,8 +297,18 @@ def download_song(track_name: str, artists_string: str, song_id: str, output_fol
         
         # Create search query
         search_query = f"{track_name} {artists_string}"
+        print(f"📥 Downloading: {track_name} by {artists_string}")
         
-        # Configure yt-dlp options for MP3 download only
+        # Prioritize cookies.txt file over browser cookies (matching FinalcodeWithCookies approach)
+        cookies_file = Config.COOKIES_FILE
+        if os.path.exists(cookies_file):
+            print(f"   🍪 Using cookies.txt file")
+        elif Config.BROWSER_FOR_COOKIES:
+            print(f"   🍪 Using cookies from {Config.BROWSER_FOR_COOKIES} browser")
+        else:
+            print(f"   ⚠️ No cookies available - may encounter bot detection")
+        
+        # Configure yt-dlp options with extra parameters to avoid bot detection
         ydl_opts = {
             'format': 'bestaudio/best',
             'outtmpl': str(output_folder / f'{song_id}.%(ext)s'),
@@ -273,9 +320,30 @@ def download_song(track_name: str, artists_string: str, song_id: str, output_fol
                 'preferredcodec': 'mp3',
                 'preferredquality': Config.AUDIO_QUALITY,
             }],
-            'quiet': True,
-            'no_warnings': True
+            'quiet': False,  # Set to False to see detailed output for debugging
+            'no_warnings': False,  # Show warnings for debugging
+            'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            'nocheckcertificate': True,
+            'ignoreerrors': False,  # Stop on errors to see what's happening
+            'geo_bypass': True,     # Try to bypass geo-restrictions
+            'sleep_interval': 2,    # Delay between requests to avoid rate limiting
+            'max_sleep_interval': 5,
+            'rm_cachedir': True,    # Clear cache between downloads
+            'extractor_retries': 3, # Retry extraction if it fails
+            'skip_download_archive': True, # Don't use download archive to ensure fresh download
+            'force_generic_extractor': False, # Use specific extractors when possible
+            'concurrent_fragment_downloads': 1, # Limit concurrent fragment downloads
         }
+        
+        # Add either file cookies or browser cookies, not both (matching FinalcodeWithCookies approach)
+        if os.path.exists(cookies_file):
+            ydl_opts['cookiefile'] = cookies_file
+        elif Config.BROWSER_FOR_COOKIES:
+            try:
+                ydl_opts['cookiesfrombrowser'] = (Config.BROWSER_FOR_COOKIES,)
+                print(f"   🍪 Using cookies from {Config.BROWSER_FOR_COOKIES} browser")
+            except Exception as e:
+                print(f"   ⚠️ Could not load browser cookies: {e}")
         
         print(f"   🔍 Searching for: {search_query}")
         
@@ -293,6 +361,34 @@ def download_song(track_name: str, artists_string: str, song_id: str, output_fol
                 
     except Exception as e:
         print(f"   ❌ Download failed for {track_name}: {e}")
+        
+        # Check if it's a bot verification error
+        error_str = str(e)
+        if "Sign in to confirm you're not a bot" in error_str:
+            print(f"   ⚠️ YouTube bot verification detected.")
+            print(f"   💡 Tips to fix:")
+            print(f"      1. Make sure your cookies.txt file is up to date")
+            print(f"      2. Try with a different YouTube account")
+            print(f"      3. Consider using --cookies-from-browser option directly")
+            
+            # Try an alternative method with browser cookies if not already tried
+            if not Config.BROWSER_FOR_COOKIES and os.path.exists(Config.COOKIES_FILE):
+                print(f"   🔄 Attempting alternative download method...")
+                try:
+                    # Try with a different user agent
+                    alt_opts = ydl_opts.copy()
+                    alt_opts['user_agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0'
+                    
+                    with yt_dlp.YoutubeDL(alt_opts) as ydl:
+                        info = ydl.extract_info(f"ytsearch1:{search_query}", download=True)
+                        
+                        if info and 'entries' in info and len(info['entries']) > 0:
+                            entry = info['entries'][0]
+                            print(f"   ✅ Downloaded with alternative method: {entry.get('title', 'Unknown')}")
+                            return True
+                except Exception as e2:
+                    print(f"   ❌ Alternative method failed: {e2}")
+        
         return False
 
 # === AUTOMATIC SCROLLING FUNCTION ===
@@ -891,12 +987,83 @@ def save_databases(song_manager: SmartSongManager):
     except Exception as e:
         print(f"❌ Error saving databases: {e}")
 
+def handle_youtube_captcha():
+    """Handle YouTube CAPTCHA by opening browser"""
+    if Config.ALLOW_YOUTUBE_CAPTCHA:
+        print("\n🤖 YouTube may require CAPTCHA verification.")
+        print("   Opening YouTube in browser for manual verification...")
+        
+        try:
+            import webbrowser
+            webbrowser.open("https://www.youtube.com")
+            print("   ✅ YouTube opened in browser")
+            print("   👆 Please solve any CAPTCHA if prompted, then press Enter to continue")
+            input("   Press Enter when ready...")
+            return True
+        except Exception as e:
+            print(f"   ⚠️ Could not open browser: {e}")
+            return False
+    return False
+
 def main():
     """Main function to run the enhanced batch artist scraper with auto-scroll"""
     global stop_capture, all_artist_tracks, captured_data, current_artist_id
     
     print("🎵 Enhanced Batch Spotify Artist Scraper with Auto-Scroll")
     print("=" * 70)
+    
+    # Set up logging for debugging
+    logging.basicConfig(level=logging.INFO, 
+                       format='%(asctime)s - %(levelname)s - %(message)s')
+    
+    # Test cookies before starting
+    # Test cookies if available (matching FinalcodeWithCookies approach)
+    cookies_file = Config.COOKIES_FILE
+    if os.path.exists(cookies_file):
+        print(f"🍪 Testing cookies from: {cookies_file}")
+        try:
+            import yt_dlp
+            test_opts = {
+                'quiet': True,
+                'cookiefile': cookies_file,
+                'skip_download': True,
+                'extract_flat': True,
+                'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            }
+            with yt_dlp.YoutubeDL(test_opts) as ydl:
+                ydl.extract_info('https://www.youtube.com/watch?v=dQw4w9WgXcQ', download=False)
+            print("   ✅ Cookies are valid and working")
+        except Exception as e:
+            print(f"   ⚠️ Cookie test failed: {e}")
+            print("   💡 You may need to update your cookies.txt file")
+            print("   ⚠️ Continuing without valid cookies may result in bot detection")
+            response = input("   Do you want to continue anyway? (y/n): ")
+            if response.lower() != 'y':
+                print("Exiting...")
+                return
+    
+    # Check for cookies.txt file (matching FinalcodeWithCookies approach)
+    cookies_file = Config.COOKIES_FILE
+    if os.path.exists(cookies_file):
+        print(f"🍪 Found cookies file: {cookies_file}")
+        # Try to validate the cookies
+        try:
+            with open(cookies_file, 'r', encoding='utf-8') as f:
+                cookie_lines = f.readlines()
+                valid_cookie_lines = [line for line in cookie_lines if line.strip() and not line.startswith('#')]
+                print(f"   📊 Cookie file contains {len(valid_cookie_lines)} valid entries")
+        except Exception as e:
+            print(f"   ⚠️ Error reading cookies file: {e}")
+    else:
+        print(f"⚠️ Warning: No cookies.txt file found")
+        print(f"   This may cause YouTube to show 'confirm you're not a bot' errors")
+        print(f"   Consider getting a valid cookies.txt file or setting Config.BROWSER_FOR_COOKIES")
+        
+        # Ask if user wants to continue without cookies
+        continue_choice = input("Continue without valid cookies? (y/N): ").strip().lower()
+        if continue_choice != 'y':
+            print("Exiting. Please add a valid cookies.txt file and restart.")
+            return
     
     # Check prerequisites
     if not check_prerequisites():
@@ -920,18 +1087,95 @@ def main():
     print("6. Press Enter to start the automated process...")
     input()
     
-    # Setup browser once with auto-scroll optimized options
-    options = Options()
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    options.add_experimental_option('useAutomationExtension', False)
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    # Keep browser visible to monitor auto-scrolling
+    # Dictionary to store all collected artist data
+    all_artists_data = {}
+    total_data_collected = 0
+    total_errors = 0
     
-    driver = webdriver.Chrome(options=options)
-    driver.request_interceptor = request_interceptor
-    driver.response_interceptor = response_interceptor
+    # Function to create a new browser session
+    def create_new_browser_session():
+        print(f"🌐 Creating new browser session...")
+        # Setup browser with auto-scroll optimized options
+        options = Options()
+        options.add_argument("--disable-blink-features=AutomationControlled")
+        options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        options.add_experimental_option('useAutomationExtension', False)
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        
+        # Rotate user agents if enabled
+        if Config.ROTATE_USER_AGENTS:
+            import random
+            user_agents = [
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0',
+                'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15',
+                'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            ]
+            selected_user_agent = random.choice(user_agents)
+            options.add_argument(f'user-agent={selected_user_agent}')
+            print(f"🔄 Using rotating user agent: {selected_user_agent}")
+        
+        # Use proxy if enabled and available
+        selenium_wire_options = {}
+        if Config.USE_PROXIES and Config.PROXY_LIST:
+            import random
+            selected_proxy = random.choice(Config.PROXY_LIST)
+            selenium_wire_options = {
+                'proxy': {
+                    'http': selected_proxy,
+                    'https': selected_proxy,
+                    'no_proxy': 'localhost,127.0.0.1'
+                }
+            }
+            print(f"🔒 Using proxy: {selected_proxy}")
+        
+        # Keep browser visible to monitor auto-scrolling
+        driver = webdriver.Chrome(options=options, seleniumwire_options=selenium_wire_options)
+        driver.request_interceptor = request_interceptor
+        driver.response_interceptor = response_interceptor
+        
+        # Load cookies if available (matching FinalcodeWithCookies approach)
+        cookies_file = Config.COOKIES_FILE
+        if os.path.exists(cookies_file):
+            print(f"🍪 Loading cookies from {cookies_file}")
+            # We need to navigate to a page first before adding cookies
+            driver.get("https://www.youtube.com")
+            time.sleep(2)
+            
+            # Parse cookies from the file and add to the browser
+            try:
+                with open(cookies_file, 'r', encoding='utf-8') as f:
+                    lines = f.readlines()
+                    
+                for line in lines:
+                    if line.strip() and not line.startswith('#'):
+                        fields = line.strip().split('\t')
+                        if len(fields) >= 7:  # Valid cookie line
+                            domain, flag, path, secure, expiry, name, value = fields[:7]
+                            cookie = {
+                                'domain': domain,
+                                'path': path,
+                                'secure': secure.lower() == 'true',
+                                'expiry': int(expiry) if expiry.isdigit() else None,
+                                'name': name,
+                                'value': value
+                            }
+                            try:
+                                driver.add_cookie(cookie)
+                            except Exception as e:
+                                print(f"   ⚠️ Couldn't add cookie {name}: {e}")
+                print("✅ Cookies loaded successfully")
+            except Exception as e:
+                print(f"❌ Error loading cookies: {e}")
+        else:
+            print(f"⚠️ No cookies.txt file found")
+            
+        return driver
     
     # Dictionary to store all collected artist data
     all_artists_data = {}
@@ -939,7 +1183,7 @@ def main():
     total_errors = 0
     
     try:
-        print("🌐 Browser opened successfully")
+        print("🤖 Starting automated batch processing...")
         
         # PHASE 1: Automated data collection from all artist pages
         print(f"\n{'='*80}")
@@ -955,6 +1199,9 @@ def main():
             current_artist_id = artist_id
             all_artist_tracks = []
             stop_capture = False
+            
+            # Create a new browser session for each artist
+            driver = create_new_browser_session()
             
             try:
                 # Construct artist discography URL
@@ -1007,6 +1254,11 @@ def main():
                     print(f"❌ No tracks found for artist {artist_id}")
                     total_errors += 1
                 
+                # Close the browser session for this artist
+                print(f"🔄 Closing browser session for artist {artist_id}...")
+                driver.quit()
+                print(f"✅ Browser session closed for artist {artist_id}")
+                
                 # Automatic delay between artists
                 if i < len(artist_ids):  # Don't delay after the last artist
                     print(f"⏳ Auto-waiting {Config.DELAY_BETWEEN_ARTISTS} seconds before next artist...")
@@ -1015,12 +1267,13 @@ def main():
             except Exception as e:
                 print(f"❌ Error in auto-processing artist {artist_id}: {e}")
                 total_errors += 1
+                # Make sure to close the browser session even if there's an error
+                try:
+                    driver.quit()
+                    print(f"✅ Browser session closed after error")
+                except:
+                    pass
                 continue
-        
-        # Close browser after automated data collection
-        print(f"\n🔄 Closing browser after automated collection...")
-        driver.quit()
-        print("✅ Browser closed automatically")
         
         # PHASE 2: Process all collected data and download songs
         print(f"\n{'='*80}")
@@ -1079,6 +1332,10 @@ def main():
         except:
             pass
         print("🎉 Automated batch processing complete!")
+        print("Use this : python add_cover_art_urls.py")
+        print("Use this : python code_push_songs.py")
+        print("Use this : python code_push_metadata.py")
+        print("Use this : python next_artist_finder.py")
 
 # Run the main function
 if __name__ == "__main__":
